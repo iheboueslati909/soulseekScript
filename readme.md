@@ -16,6 +16,13 @@ Status: Done, needs optimization
 Function:
 Performs the "paste-enter" (search) action into Soulseek.
 
+**User module integration**
+
+Status: not started.
+
+Function:
+Keeps history for searched tracks , and maybe other featues.
+
 # Current concerns
 - For the batch script to work, Soulseek's window must be open in the taskbar (it doesn't matter if it's in the background).
 
