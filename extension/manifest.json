@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Soulseek direct",
+    "description": "Directly search tracks into soulseek from browser",
+    "version": "1.0",
+    "action": {
+      "default_popup": "direct.html",
+      "default_icon": "icon.png"
+    }
+  }
