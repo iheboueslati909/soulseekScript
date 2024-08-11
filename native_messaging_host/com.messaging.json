@@ -1,0 +1,9 @@
+{
+  "name": "com.soulseek.nativehost",
+  "description": "My Native Host",
+  "path": "C:\\Users\\hooba\\OneDrive\\Bureau\\ssscript\\soulseekScript\\native_messaging_host\\native_host.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://pbkpdfahlchocbidgemjiknladokledk/"
+  ]
+}
